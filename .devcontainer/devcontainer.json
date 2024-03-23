@@ -1,5 +1,4 @@
 {
-  "remoteUser": "vscode",
   "image": "ubuntu:noble",
   "dockerFile":"./Dockerfile"
 }
